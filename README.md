@@ -8,7 +8,7 @@ I'm a data analyst based in India. Welcome to my GitHub profile! Here you'll fin
 - 🌱 I’m currently learning  machine learning algorithms, Looker Studio etc
 - 💬 Ask me about data analysis, SQL, Python, or any data-related queries
 - 📫 How to reach me: akhileshjayanj@gmail.com
-- 😄 Pronouns: He/Him
+
 
 ## Tools and Technologies
 
